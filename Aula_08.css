@@ -1,0 +1,134 @@
+body {
+    display: flex;
+    padding: auto;
+    justify-content: center;
+}
+
+
+
+
+
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+.images img {
+    border-radius: 100px;
+}
+
+.conteudo {
+    background-color: bisque;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.lugar {
+    margin: 15px;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(56, 53, 53);
+}
+
+.git {
+    margin: 15px;
+    background-color: rgb(129, 75, 75);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.fon {
+    margin: 15px;
+    background-color: rgb(129, 75, 75);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.lin {
+    margin: 15px;
+    background-color: rgb(129, 75, 75);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.tw {
+    margin: 15px;
+    background-color: rgb(129, 75, 75);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.menu {
+    margin: 15px;
+    background-color: rgb(129, 75, 75);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.button {
+    background-color: #04AA6D;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    padding: auto;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D;
+}
+
+.button1:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+.des {
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.nome {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.lis a:hover {
+    color: #ffff;
+}
+
+.lis a {
+    text-decoration: none;
+
+}
+
+
